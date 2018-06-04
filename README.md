@@ -1,2 +1,9 @@
-# paper-wallet
-Paper-wallet for LatinCash
+# Paper-Wallet
+
+LatinCash paper wallet
+
+http://wallet.latincashcoin.com
+
+# Credits
+
+TurtleCoin developers
